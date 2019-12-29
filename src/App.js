@@ -13,7 +13,7 @@ function App() {
         alt = "logo" / >
         <
         p >
-        Bye there! && && && !!! <
+        I was changed on the new branch!!! <
         /p> <
         a className = "App-link"
         href = "https://reactjs.org"
